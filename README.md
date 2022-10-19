@@ -2,9 +2,9 @@
 
 My name is Yanis, a French student in engineering. Using Python, Database stuff (PostGreSQL), JavaScript & more
 
-## 🚂 Projects O'm currently working on:
+## 🚂 Projects I'm currently working on:
 
-- [Yasuho](https://github.com/yaniswav/Yasuho)
+- [Yasuho](https://yasuho.xyz)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9053e9)
