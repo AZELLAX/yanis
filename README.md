@@ -1,6 +1,6 @@
 # Hello! I'm Yanis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Yanis, a French student in engineering. Using Python, Database stuff (PostGreSQL), JavaScript & more
+My name is Yanis, a French student in engineering. Using Python, Database stuff (PostGreSQL), C++ & more
 
 ## 🚂 Projects I'm currently working on:
 
