@@ -18,5 +18,3 @@ My name is Yanis, a French student in engineering. Using Python, Database stuff 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=9053e9)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9053e9)
 
-## Discord Status
-![discord](https://discord.c99.nl/widget/theme-4/228895251576782858.png)
