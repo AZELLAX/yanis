@@ -5,7 +5,6 @@ My name is Yanis, a French student in engineering. Using Python, Database stuff 
 ## 🚂 Projects I'm currently working on:
 
 - [Yasuho](https://yasuho.xyz)
-- [Web  Project](https://github.com/larg0c/Web)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9053e9)
